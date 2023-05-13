@@ -31,7 +31,8 @@ twitter_username: huhlim
 github_username:  huhlim
 
 # Build settings
-theme: minima
+# theme: minima
+remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
 
