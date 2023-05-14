@@ -43,6 +43,7 @@ plugins:
 #
 exclude:
     - models/
+    - scripts/
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
