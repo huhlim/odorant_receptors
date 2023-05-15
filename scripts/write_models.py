@@ -18,8 +18,7 @@ TABLE = """
     <td>Original AF2 model</td>
     <td>Best template<br>(seq. ID)</td>
   </tr>
-  DATA
-</table>
+  DATA</table>
 """
 
 ADDR_BASE = "https://github.com/huhlim/odorant_receptors/blob/main/models"
@@ -51,7 +50,7 @@ def main():
         wrt.append(f"  <td>{gene_name}_HUMAN</td>")
         #
         wrt.append(
-            f'  <td><a href="{ADDR_BASE}/{receptor}/{receptor}.active.pdb"><b>{X[0][0]}</b></a></td>'
+            f'  <td><a href="{ADDR_BASE}/{receptor}/{receptor}.active.pdb">{X[0][0]}</a></td>'
         )
         wrt.append(
             f'  <td><a href="{ADDR_BASE}/{receptor}/{receptor}.active.orig.pdb">{X[0][1]}</a></td>'
@@ -59,20 +58,12 @@ def main():
         pdb_id = X[0][2].split("_")[0]
         wrt.append(f'  <td><a href="{PDB_BASE}/{pdb_id}">{X[0][2]}</a> ({X[0][3]}%)</td>')
         #
-        if float(X[1][0]) > float(X[1][1]):
-            wrt.append(
-                f'  <td><a href="{ADDR_BASE}/{receptor}/{receptor}.inactive.pdb"><b>{X[1][0]}</b></a></td>'
-            )
-            wrt.append(
-                f'  <td><a href="{ADDR_BASE}/{receptor}/{receptor}.inactive.orig.pdb">{X[1][1]}</a></td>'
-            )
-        else:
-            wrt.append(
-                f'  <td><a href="{ADDR_BASE}/{receptor}/{receptor}.inactive.pdb">{X[1][0]}</a></td>'
-            )
-            wrt.append(
-                f'  <td><a href="{ADDR_BASE}/{receptor}/{receptor}.inactive.orig.pdb"><b>{X[1][1]}</b></a></td>'
-            )
+        wrt.append(
+            f'  <td><a href="{ADDR_BASE}/{receptor}/{receptor}.inactive.pdb">{X[1][0]}</a></td>'
+        )
+        wrt.append(
+            f'  <td><a href="{ADDR_BASE}/{receptor}/{receptor}.inactive.orig.pdb">{X[1][1]}</a></td>'
+        )
         pdb_id = X[1][2].split("_")[0]
         wrt.append(f'  <td><a href="{PDB_BASE}/{pdb_id}">{X[1][2]}</a> ({X[1][3]}%)</td>')
 
