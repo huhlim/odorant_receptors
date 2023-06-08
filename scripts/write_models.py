@@ -47,7 +47,12 @@ def main():
         wrt.append(
             f'  <td><a href="https://www.uniprot.org/uniprotkb/{accession_code}/entry">{accession_code}</a></td>'
         )
-        wrt.append(f"  <td>{gene_name}_HUMAN</td>")
+        if "OR" in gene_name:
+            wrt.append(f"  <td>{gene_name}_HUMAN</td>")
+        elif "hTAAR" in gene_name:
+            wrt.append(f"  <td>{gene_name[1:]}_HUMAN</td>")
+        elif "mTAAR" in gene_name:
+            wrt.append(f"  <td>{gene_name[1:]}_MOUSE</td>")
         #
         wrt.append(
             f'  <td><a href="{ADDR_BASE}/{receptor}/{receptor}.active.pdb">{X[0][0]}</a></td>'

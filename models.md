@@ -1,10 +1,3 @@
----
-layout: default
-title: Multi-State Modeling of Odorant Receptors using AlphaFold
----
-## Odorant Receptor Models
-
-The number in "model" is the predicted LDDT (pLDDT) score for the model. Click it to retrieve the model.
 
 <table>
   <tr align="center">
@@ -4090,5 +4083,215 @@ The number in "model" is the predicted LDDT (pLDDT) score for the model. Click i
     <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q9Y5P1_OR51B2/Q9Y5P1_OR51B2.inactive.pdb">84.91</a></td>
     <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q9Y5P1_OR51B2/Q9Y5P1_OR51B2.inactive.orig.pdb">92.54</a></td>
     <td><a href="https://www.rcsb.org/structure/3vg9">3vg9_A</a> (19.2%)</td>
+  </tr>
+  <tr align="center">
+    <td><a href="https://www.uniprot.org/uniprotkb/O14804/entry">O14804</a></td>
+    <td>TAAR5_HUMAN</td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/O14804_hTAAR5/O14804_hTAAR5.active.pdb">92.03</a></td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/O14804_hTAAR5/O14804_hTAAR5.active.orig.pdb">89.69</a></td>
+    <td><a href="https://www.rcsb.org/structure/8iw9">8iw9_R</a> (45.7%)</td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/O14804_hTAAR5/O14804_hTAAR5.inactive.pdb">90.72</a></td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/O14804_hTAAR5/O14804_hTAAR5.inactive.orig.pdb">89.79</a></td>
+    <td><a href="https://www.rcsb.org/structure/4amj">4amj_B</a> (31.2%)</td>
+  </tr>
+  <tr align="center">
+    <td><a href="https://www.uniprot.org/uniprotkb/Q5QD04/entry">Q5QD04</a></td>
+    <td>TAAR9_MOUSE</td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q5QD04_mTAAR9/Q5QD04_mTAAR9.active.pdb">95.90</a></td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q5QD04_mTAAR9/Q5QD04_mTAAR9.active.orig.pdb">92.81</a></td>
+    <td><a href="https://www.rcsb.org/structure/8iw9">8iw9_R</a> (100.0%)</td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q5QD04_mTAAR9/Q5QD04_mTAAR9.inactive.pdb">91.70</a></td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q5QD04_mTAAR9/Q5QD04_mTAAR9.inactive.orig.pdb">93.59</a></td>
+    <td><a href="https://www.rcsb.org/structure/4iaq">4iaq_A</a> (30.5%)</td>
+  </tr>
+  <tr align="center">
+    <td><a href="https://www.uniprot.org/uniprotkb/Q5QD05/entry">Q5QD05</a></td>
+    <td>TAAR8C_MOUSE</td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q5QD05_mTAAR8C/Q5QD05_mTAAR8C.active.pdb">94.27</a></td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q5QD05_mTAAR8C/Q5QD05_mTAAR8C.active.orig.pdb">92.81</a></td>
+    <td><a href="https://www.rcsb.org/structure/8iw9">8iw9_R</a> (69.5%)</td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q5QD05_mTAAR8C/Q5QD05_mTAAR8C.inactive.pdb">90.50</a></td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q5QD05_mTAAR8C/Q5QD05_mTAAR8C.inactive.orig.pdb">94.29</a></td>
+    <td><a href="https://www.rcsb.org/structure/6kux">6kux_A</a> (30.2%)</td>
+  </tr>
+  <tr align="center">
+    <td><a href="https://www.uniprot.org/uniprotkb/Q5QD06/entry">Q5QD06</a></td>
+    <td>TAAR8B_MOUSE</td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q5QD06_mTAAR8B/Q5QD06_mTAAR8B.active.pdb">94.44</a></td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q5QD06_mTAAR8B/Q5QD06_mTAAR8B.active.orig.pdb">92.88</a></td>
+    <td><a href="https://www.rcsb.org/structure/8iw9">8iw9_R</a> (67.7%)</td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q5QD06_mTAAR8B/Q5QD06_mTAAR8B.inactive.pdb">90.87</a></td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q5QD06_mTAAR8B/Q5QD06_mTAAR8B.inactive.orig.pdb">94.20</a></td>
+    <td><a href="https://www.rcsb.org/structure/6kux">6kux_A</a> (30.2%)</td>
+  </tr>
+  <tr align="center">
+    <td><a href="https://www.uniprot.org/uniprotkb/Q5QD07/entry">Q5QD07</a></td>
+    <td>TAAR8A_MOUSE</td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q5QD07_mTAAR8A/Q5QD07_mTAAR8A.active.pdb">94.89</a></td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q5QD07_mTAAR8A/Q5QD07_mTAAR8A.active.orig.pdb">92.65</a></td>
+    <td><a href="https://www.rcsb.org/structure/8iw9">8iw9_R</a> (67.7%)</td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q5QD07_mTAAR8A/Q5QD07_mTAAR8A.inactive.pdb">90.10</a></td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q5QD07_mTAAR8A/Q5QD07_mTAAR8A.inactive.orig.pdb">93.99</a></td>
+    <td><a href="https://www.rcsb.org/structure/6kuw">6kuw_A</a> (30.2%)</td>
+  </tr>
+  <tr align="center">
+    <td><a href="https://www.uniprot.org/uniprotkb/Q5QD08/entry">Q5QD08</a></td>
+    <td>TAAR7F_MOUSE</td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q5QD08_mTAAR7F/Q5QD08_mTAAR7F.active.pdb">94.54</a></td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q5QD08_mTAAR7F/Q5QD08_mTAAR7F.active.orig.pdb">92.04</a></td>
+    <td><a href="https://www.rcsb.org/structure/8iw9">8iw9_R</a> (65.9%)</td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q5QD08_mTAAR7F/Q5QD08_mTAAR7F.inactive.pdb">90.87</a></td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q5QD08_mTAAR7F/Q5QD08_mTAAR7F.inactive.orig.pdb">93.65</a></td>
+    <td><a href="https://www.rcsb.org/structure/2ycw">2ycw_A</a> (27.1%)</td>
+  </tr>
+  <tr align="center">
+    <td><a href="https://www.uniprot.org/uniprotkb/Q5QD09/entry">Q5QD09</a></td>
+    <td>TAAR7E_MOUSE</td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q5QD09_mTAAR7E/Q5QD09_mTAAR7E.active.pdb">94.21</a></td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q5QD09_mTAAR7E/Q5QD09_mTAAR7E.active.orig.pdb">92.83</a></td>
+    <td><a href="https://www.rcsb.org/structure/8iw9">8iw9_R</a> (66.2%)</td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q5QD09_mTAAR7E/Q5QD09_mTAAR7E.inactive.pdb">91.28</a></td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q5QD09_mTAAR7E/Q5QD09_mTAAR7E.inactive.orig.pdb">94.37</a></td>
+    <td><a href="https://www.rcsb.org/structure/2r4s">2r4s_A</a> (28.5%)</td>
+  </tr>
+  <tr align="center">
+    <td><a href="https://www.uniprot.org/uniprotkb/Q5QD10/entry">Q5QD10</a></td>
+    <td>TAAR7D_MOUSE</td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q5QD10_mTAAR7D/Q5QD10_mTAAR7D.active.pdb">94.82</a></td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q5QD10_mTAAR7D/Q5QD10_mTAAR7D.active.orig.pdb">92.15</a></td>
+    <td><a href="https://www.rcsb.org/structure/8iw9">8iw9_R</a> (67.3%)</td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q5QD10_mTAAR7D/Q5QD10_mTAAR7D.inactive.pdb">91.56</a></td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q5QD10_mTAAR7D/Q5QD10_mTAAR7D.inactive.orig.pdb">93.84</a></td>
+    <td><a href="https://www.rcsb.org/structure/6kuy">6kuy_A</a> (27.4%)</td>
+  </tr>
+  <tr align="center">
+    <td><a href="https://www.uniprot.org/uniprotkb/Q5QD11/entry">Q5QD11</a></td>
+    <td>TAAR7B_MOUSE</td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q5QD11_mTAAR7B/Q5QD11_mTAAR7B.active.pdb">94.76</a></td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q5QD11_mTAAR7B/Q5QD11_mTAAR7B.active.orig.pdb">92.70</a></td>
+    <td><a href="https://www.rcsb.org/structure/8iw9">8iw9_R</a> (67.9%)</td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q5QD11_mTAAR7B/Q5QD11_mTAAR7B.inactive.pdb">91.32</a></td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q5QD11_mTAAR7B/Q5QD11_mTAAR7B.inactive.orig.pdb">93.86</a></td>
+    <td><a href="https://www.rcsb.org/structure/4amj">4amj_B</a> (27.7%)</td>
+  </tr>
+  <tr align="center">
+    <td><a href="https://www.uniprot.org/uniprotkb/Q5QD12/entry">Q5QD12</a></td>
+    <td>TAAR7A_MOUSE</td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q5QD12_mTAAR7A/Q5QD12_mTAAR7A.active.pdb">95.59</a></td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q5QD12_mTAAR7A/Q5QD12_mTAAR7A.active.orig.pdb">92.73</a></td>
+    <td><a href="https://www.rcsb.org/structure/8iw9">8iw9_R</a> (67.3%)</td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q5QD12_mTAAR7A/Q5QD12_mTAAR7A.inactive.pdb">91.34</a></td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q5QD12_mTAAR7A/Q5QD12_mTAAR7A.inactive.orig.pdb">93.98</a></td>
+    <td><a href="https://www.rcsb.org/structure/2r4s">2r4s_A</a> (27.7%)</td>
+  </tr>
+  <tr align="center">
+    <td><a href="https://www.uniprot.org/uniprotkb/Q5QD13/entry">Q5QD13</a></td>
+    <td>TAAR6_MOUSE</td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q5QD13_mTAAR6/Q5QD13_mTAAR6.active.pdb">95.26</a></td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q5QD13_mTAAR6/Q5QD13_mTAAR6.active.orig.pdb">93.64</a></td>
+    <td><a href="https://www.rcsb.org/structure/8iw9">8iw9_R</a> (67.8%)</td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q5QD13_mTAAR6/Q5QD13_mTAAR6.inactive.pdb">91.03</a></td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q5QD13_mTAAR6/Q5QD13_mTAAR6.inactive.orig.pdb">94.78</a></td>
+    <td><a href="https://www.rcsb.org/structure/6ps2">6ps2_A</a> (27.2%)</td>
+  </tr>
+  <tr align="center">
+    <td><a href="https://www.uniprot.org/uniprotkb/Q5QD14/entry">Q5QD14</a></td>
+    <td>TAAR5_MOUSE</td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q5QD14_mTAAR5/Q5QD14_mTAAR5.active.pdb">91.86</a></td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q5QD14_mTAAR5/Q5QD14_mTAAR5.active.orig.pdb">90.34</a></td>
+    <td><a href="https://www.rcsb.org/structure/8iw9">8iw9_R</a> (45.4%)</td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q5QD14_mTAAR5/Q5QD14_mTAAR5.inactive.pdb">91.45</a></td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q5QD14_mTAAR5/Q5QD14_mTAAR5.inactive.orig.pdb">90.95</a></td>
+    <td><a href="https://www.rcsb.org/structure/4amj">4amj_B</a> (31.2%)</td>
+  </tr>
+  <tr align="center">
+    <td><a href="https://www.uniprot.org/uniprotkb/Q5QD15/entry">Q5QD15</a></td>
+    <td>TAAR4_MOUSE</td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q5QD15_mTAAR4/Q5QD15_mTAAR4.active.pdb">93.82</a></td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q5QD15_mTAAR4/Q5QD15_mTAAR4.active.orig.pdb">93.36</a></td>
+    <td><a href="https://www.rcsb.org/structure/8iw9">8iw9_R</a> (42.1%)</td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q5QD15_mTAAR4/Q5QD15_mTAAR4.inactive.pdb">93.32</a></td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q5QD15_mTAAR4/Q5QD15_mTAAR4.inactive.orig.pdb">93.44</a></td>
+    <td><a href="https://www.rcsb.org/structure/6ps2">6ps2_A</a> (26.8%)</td>
+  </tr>
+  <tr align="center">
+    <td><a href="https://www.uniprot.org/uniprotkb/Q5QD16/entry">Q5QD16</a></td>
+    <td>TAAR3_MOUSE</td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q5QD16_mTAAR3/Q5QD16_mTAAR3.active.pdb">92.18</a></td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q5QD16_mTAAR3/Q5QD16_mTAAR3.active.orig.pdb">91.69</a></td>
+    <td><a href="https://www.rcsb.org/structure/8iw9">8iw9_R</a> (43.7%)</td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q5QD16_mTAAR3/Q5QD16_mTAAR3.inactive.pdb">84.19</a></td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q5QD16_mTAAR3/Q5QD16_mTAAR3.inactive.orig.pdb">93.37</a></td>
+    <td><a href="https://www.rcsb.org/structure/6ps2">6ps2_A</a> (26.5%)</td>
+  </tr>
+  <tr align="center">
+    <td><a href="https://www.uniprot.org/uniprotkb/Q5QD17/entry">Q5QD17</a></td>
+    <td>TAAR2_MOUSE</td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q5QD17_mTAAR2/Q5QD17_mTAAR2.active.pdb">94.87</a></td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q5QD17_mTAAR2/Q5QD17_mTAAR2.active.orig.pdb">92.83</a></td>
+    <td><a href="https://www.rcsb.org/structure/8iw9">8iw9_R</a> (40.4%)</td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q5QD17_mTAAR2/Q5QD17_mTAAR2.inactive.pdb">94.00</a></td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q5QD17_mTAAR2/Q5QD17_mTAAR2.inactive.orig.pdb">94.08</a></td>
+    <td><a href="https://www.rcsb.org/structure/3d4s">3d4s_A</a> (27.1%)</td>
+  </tr>
+  <tr align="center">
+    <td><a href="https://www.uniprot.org/uniprotkb/Q923Y8/entry">Q923Y8</a></td>
+    <td>TAAR1_MOUSE</td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q923Y8_mTAAR1/Q923Y8_mTAAR1.active.pdb">95.09</a></td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q923Y8_mTAAR1/Q923Y8_mTAAR1.active.orig.pdb">92.69</a></td>
+    <td><a href="https://www.rcsb.org/structure/8iw9">8iw9_R</a> (44.3%)</td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q923Y8_mTAAR1/Q923Y8_mTAAR1.inactive.pdb">91.55</a></td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q923Y8_mTAAR1/Q923Y8_mTAAR1.inactive.orig.pdb">92.93</a></td>
+    <td><a href="https://www.rcsb.org/structure/4amj">4amj_B</a> (31.0%)</td>
+  </tr>
+  <tr align="center">
+    <td><a href="https://www.uniprot.org/uniprotkb/Q969N4/entry">Q969N4</a></td>
+    <td>TAAR8_HUMAN</td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q969N4_hTAAR8/Q969N4_hTAAR8.active.pdb">94.12</a></td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q969N4_hTAAR8/Q969N4_hTAAR8.active.orig.pdb">93.31</a></td>
+    <td><a href="https://www.rcsb.org/structure/8iw9">8iw9_R</a> (67.0%)</td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q969N4_hTAAR8/Q969N4_hTAAR8.inactive.pdb">91.78</a></td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q969N4_hTAAR8/Q969N4_hTAAR8.inactive.orig.pdb">94.16</a></td>
+    <td><a href="https://www.rcsb.org/structure/2ycw">2ycw_A</a> (26.9%)</td>
+  </tr>
+  <tr align="center">
+    <td><a href="https://www.uniprot.org/uniprotkb/Q96RI8/entry">Q96RI8</a></td>
+    <td>TAAR6_HUMAN</td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q96RI8_hTAAR6/Q96RI8_hTAAR6.active.pdb">94.71</a></td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q96RI8_hTAAR6/Q96RI8_hTAAR6.active.orig.pdb">93.52</a></td>
+    <td><a href="https://www.rcsb.org/structure/8iw9">8iw9_R</a> (68.4%)</td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q96RI8_hTAAR6/Q96RI8_hTAAR6.inactive.pdb">90.76</a></td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q96RI8_hTAAR6/Q96RI8_hTAAR6.inactive.orig.pdb">94.51</a></td>
+    <td><a href="https://www.rcsb.org/structure/6kuy">6kuy_A</a> (28.4%)</td>
+  </tr>
+  <tr align="center">
+    <td><a href="https://www.uniprot.org/uniprotkb/Q96RI9/entry">Q96RI9</a></td>
+    <td>TAAR9_HUMAN</td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q96RI9_hTAAR9/Q96RI9_hTAAR9.active.pdb">94.65</a></td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q96RI9_hTAAR9/Q96RI9_hTAAR9.active.orig.pdb">92.29</a></td>
+    <td><a href="https://www.rcsb.org/structure/8iw9">8iw9_R</a> (86.8%)</td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q96RI9_hTAAR9/Q96RI9_hTAAR9.inactive.pdb">89.64</a></td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q96RI9_hTAAR9/Q96RI9_hTAAR9.inactive.orig.pdb">93.34</a></td>
+    <td><a href="https://www.rcsb.org/structure/3pds">3pds_A</a> (28.4%)</td>
+  </tr>
+  <tr align="center">
+    <td><a href="https://www.uniprot.org/uniprotkb/Q96RJ0/entry">Q96RJ0</a></td>
+    <td>TAAR1_HUMAN</td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q96RJ0_hTAAR1/Q96RJ0_hTAAR1.active.pdb">96.00</a></td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q96RJ0_hTAAR1/Q96RJ0_hTAAR1.active.orig.pdb">92.27</a></td>
+    <td><a href="https://www.rcsb.org/structure/8iw9">8iw9_R</a> (44.0%)</td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q96RJ0_hTAAR1/Q96RJ0_hTAAR1.inactive.pdb">92.43</a></td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q96RJ0_hTAAR1/Q96RJ0_hTAAR1.inactive.orig.pdb">94.23</a></td>
+    <td><a href="https://www.rcsb.org/structure/4amj">4amj_B</a> (30.1%)</td>
+  </tr>
+  <tr align="center">
+    <td><a href="https://www.uniprot.org/uniprotkb/Q9P1P5/entry">Q9P1P5</a></td>
+    <td>TAAR2_HUMAN</td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q9P1P5_hTAAR2/Q9P1P5_hTAAR2.active.pdb">93.90</a></td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q9P1P5_hTAAR2/Q9P1P5_hTAAR2.active.orig.pdb">92.54</a></td>
+    <td><a href="https://www.rcsb.org/structure/8iw9">8iw9_R</a> (37.0%)</td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q9P1P5_hTAAR2/Q9P1P5_hTAAR2.inactive.pdb">93.53</a></td>
+    <td><a href="https://github.com/huhlim/odorant_receptors/blob/main/models/Q9P1P5_hTAAR2/Q9P1P5_hTAAR2.inactive.orig.pdb">93.11</a></td>
+    <td><a href="https://www.rcsb.org/structure/6kuy">6kuy_A</a> (26.2%)</td>
   </tr>
 </table>

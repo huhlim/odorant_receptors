@@ -24,7 +24,8 @@ are predicted by our multi-state modeling protocol and the original AlphaFold2, 
 Red circles represent relationships between prediction accuracy measured in TM helix RMSD (TM-RMSD) and each metric for the benchmarked non-olfactory receptors. Pearson correlation coefficient for each relationship are denoted as "_r=_". A model that is predicted using a template with a sequence identity above 20% or has a pLDDT higher than 90 was likely to be accurate (TM-RMSD < 1.5 Å). These selection criteria are shown as yellow background color. The ratio of accurate models among the selected models are noted at lower right corner. For human odorant receptors, distributions of the maximum template sequence identity and the pLDDT score are shown as grey histograms. The percentage of that are likely to be accurate assessed by the selection criteria are noted at top right corner. 
 
 ## Download All Models
-You can download all models at [Google Drive](https://drive.google.com/file/d/1y3egK6A4kLNO9xSaRwAbsUsa97HayFSS/view?usp=share_link)
+- [Odorant receptors](https://drive.google.com/file/d/1y3egK6A4kLNO9xSaRwAbsUsa97HayFSS/view?usp=share_link)
+- [Trace amine-associated receptors](https://drive.google.com/file/d/1X9SDzZZYUi9jAFFw5Gru6Tug3QMyU-J3/view?usp=drive_link)
 
 ## Models
 Use Ctrl-F (or Command-F on Mac OS) to search an odorant receptor on [this page](models.md).
@@ -34,4 +35,5 @@ Use Ctrl-F (or Command-F on Mac OS) to search an odorant receptor on [this page]
 2. Jumper, J. _et al._, Highly accurate protein structure prediction with AlphaFold, _Nature_ (**2021**), 596, 583-589. [Link](https://www.nature.com/articles/s41586-021-03819-2) 
 
 ## Updates
+- June 08, 2023: Added Trace amine-associated receptors (TAAR) models.
 - May 14, 2023: Initial release
