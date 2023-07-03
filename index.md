@@ -31,6 +31,7 @@ Red circles represent relationships between prediction accuracy measured in TM h
 
 ## Models
 Use Ctrl-F (or Command-F on Mac OS) to search an odorant receptor on [this page](models.md).
+The models will be updated if new experimental structures of OR or TAAR become available.
 
 ## References
 1. Heo, L. and Feig, M., Multi-State Modeling of G-protein Coupled Receptors at Experimental Accuracy, _Proteins_ (**2022**), 90(11), 1873–1885. [Link](https://onlinelibrary.wiley.com/doi/10.1002/prot.26382)  
